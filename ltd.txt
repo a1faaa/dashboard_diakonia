@@ -1,0 +1,17 @@
+Setup breadcrumb
+Pak Dito
+    Pie chart
+        Total Anggaran 
+        x
+    Line Chart 
+        dari tahun ke tahun
+            total anggaran
+            total pengeluaran
+    staff 
+        di table pengeluaran proker ditambah kolom action
+            klik detail
+                fitler kegiatan by proker_id
+
+    profile
+        login as user
+            role set disabled
