@@ -118,7 +118,7 @@
                                         </div>
                                     </td>
                                     <td class="text-center">
-                                        <a href="{{ route('master.kegiatan.filter', [$key]) }}"
+                                        <a href="{{ route('user.kegiatan.filter', [$key]) }}"
                                             class="btn btn-info btn-sm">Detil</a>
                                     </td>
                                 </tr>
